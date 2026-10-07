@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @AbdiqafarOmar
 - 👀 I’m interested in Computer Science 
-- 🌱 I’m currently learning python 
-- 💞️ I’m looking to collaborate on a project later next year 
-- 📫 How to reach me ...abdikafaromar18@gmail.com
+- 📫 How to reach me ...abdikafar.omar@duke.edu
 
 <!---
 AbdiqafarOmar/AbdiqafarOmar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
